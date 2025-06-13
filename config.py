@@ -4,6 +4,7 @@ BOT_TOKEN = "6811619843:AAGrAsSc3dDOC3T-iqUtZpuhzxH5x76b_3U"                    
 OWNER_ID = "5062124930"                               # Require restart after changing it while bot running
 TELEGRAM_API = "826404"                           # Require restart after changing it while bot running
 TELEGRAM_HASH = "e935d9b56e3fd2c05c743093efb61c9"                          # Require restart after changing it while bot running
+DATABASE_URL = "mongodb+srv://2234act:2234act@cluster0.rwjacbj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
