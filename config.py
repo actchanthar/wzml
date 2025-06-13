@@ -1,9 +1,9 @@
+
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "6811619843:AAGrAsSc3dDOC3T-iqUtZpuhzxH5x76b_3U"                              # Require restart after changing it while bot running
+OWNER_ID = "5062124930"                               # Require restart after changing it while bot running
+TELEGRAM_API = "826404"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "e935d9b56e3fd2c05c743093efb61c9"                          # Require restart after changing it while bot running
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
